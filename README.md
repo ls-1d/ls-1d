@@ -5,10 +5,10 @@
 - **Linux**: Extensive experience with Linux systems [Arch, Debian, CentOS and more], from server management to automation.
 
 ### Tech Stack
-- **Languages**: HTML, CSS, JavaScript, Python, Bash, SQL, and more.
-- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible,CI/CD (GitLab CI, GitHub Actions) and various cloud platforms (AWS).
+- **Languages**: HTML, CSS, JavaScript, Python, Bash, SQL.
+- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible,CI/CD (GitLab CI, GitHub Actions) and AWS.
 - **Frameworks**: React, Flask, Django.
-- **Misc**: Git, Vim, Vscode.
+- **Misc**: Git, Vim, Vscode, and more.
 
 
 ### Connect with Me
