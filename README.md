@@ -2,7 +2,7 @@
 
 ### What I Do
 - **DevOps**: Building and maintaining scalable, reliable, and secure infrastructure.
-- **Linux**: Extensive experience with Linux systems [Arch, Debian, CentOS and more], from server management to automation.
+- **Linux SysAdmin**: Extensive experience with Linux systems [Arch, Debian, CentOS and more], from server management to automation.
 
 ### Tech Stack
 - **Languages**: HTML, CSS, JavaScript, Python, Bash, SQL.
